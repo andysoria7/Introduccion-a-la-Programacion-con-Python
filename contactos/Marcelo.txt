@@ -1,0 +1,3 @@
+Nombre: Marcelo
+Telefono: 3834199919
+Categoria: Cliente
